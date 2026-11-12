@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "keav0cG5KeM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s2401188\\source\\repos\\lunar lander\\lunar lander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2401188\\.nuget\\packages\\raylib-cs\\8.0.0\\raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
